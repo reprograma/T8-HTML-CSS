@@ -2,9 +2,9 @@
 T8 | Front-end | 2019 | Semanas 2 | Fundamentos de HTML e CSS
 
 > Plano de aulas para a semana do dia 19/08/2019 - 23/08/2019, sobre HTML e CSS básico.
-> Este arquivo será alimentado conforme o andamento das aulas 
+> Este arquivo será alimentado conforme o andamento das aulas (:
 
-![./github.gif]
+<img src="http://66.media.tumblr.com/17fea920ff36ef4f5b877d5216a7aad9/tumblr_mo9xje8zZ41qcbiufo1_1280.gif">
 
 ---
 ## AULA 01
