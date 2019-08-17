@@ -1,0 +1,102 @@
+/* GERAL */
+* {
+    box-sizing: border-box;
+} 
+
+html {
+    width: 100%;
+    height: 100%;
+}
+
+body {
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;;
+}
+
+main {
+    width: 100%;
+    height: 100%;
+    background-image: linear-gradient(#F0E68C, pink);
+    background-repeat: no-repeat;
+}
+
+a {
+    text-decoration: none;
+}
+
+nav {
+    width: 100%;
+    height: 55px;
+    background-color: rgb(253, 253, 253);
+    text-align: center;
+    text-emphasis: bold;
+    border-bottom: 1px solid lightgray;
+}
+
+footer {
+    width: 100%;
+    height: 27px;
+    background-color: purple;
+    color: white;
+    text-align: right;
+    border-top: 1px solid lightgray;
+    padding-right: 10px;
+}
+
+img {
+    width: 100%;
+}
+
+ul li, ol li {
+    margin: 5px;
+}
+
+/* UTILITIES */
+.u-margin-left-medium {
+    margin-left: 80px;
+}
+
+/* DESIGN THINKING SECTION */
+
+.header {
+    /* margin: 15px; */
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.secao-design {
+    width: 75%;
+    margin: 10px auto;
+}
+
+    .secao-design__img, .secao-design__lista {
+        width: 45%;
+        display: inline-block;
+    }
+
+    .secao-design__lista {
+        vertical-align: top;
+    }
+
+/* BUTTONS */
+.btn {
+    display: block;
+    margin: 10px auto;
+    width: 300px;
+    text-align: center;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.btn-roxo {
+    background-color:purple;
+    color: white;
+}
+
+.btn-transp {
+    border: 1px solid purple;
+}
+
+.icon-navbar__img {
+    width: 80px;
+}

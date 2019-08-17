@@ -1,0 +1,66 @@
+/* GERAL */
+* {
+    box-sizing: border-box;
+}
+
+html {
+    width: 100%;
+    height: 100%;
+}
+
+body {
+    background-image: url('../img/retangulo.jpg');
+    background-size: cover;
+    background-position: center;
+    font-family: 'Lato', Arial, Helvetica, sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+/* FONTS */
+h1 {
+    color: #5D1277;   
+    font-size: 35px;
+}
+
+h2 {
+    color: #4F4F4F;
+    font-size: 25px;
+}
+
+/* SEÇÃO SOBRE */
+.secao-sobre {
+    background-color: white;
+    border-radius: 10px;
+    width: 50%;
+    margin: 0 auto;
+    -webkit-box-shadow: 1px 1px 8px 2px rgba(97,97,97,1);
+    -moz-box-shadow: 1px 1px 8px 2px rgba(97,97,97,1);
+    box-shadow: 1px 1px 8px 2px rgba(97,97,97,1);
+}
+
+.sobre-conteudo__img {
+    margin-top: 80px;
+}  
+    
+.sobre-conteudo {
+    font-family: 'Lato', sans-serif;
+    text-align: center;
+}
+
+.sobre-conteudo__redes-sociais {
+    text-align: center;
+    margin-top: 60px;
+    padding-bottom: 60px;
+}
+
+.sobre-conteudo__redes-sociais img {
+    width: 87px;
+    height: 86px;
+    margin-left: 40px;
+}
+
+
+
