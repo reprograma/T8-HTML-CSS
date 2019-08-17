@@ -13,7 +13,7 @@ Estruturando a página HTML
     <title>
     <body>
 2. Inserir tag <div>
-3. Inserir tags <h1><h2><p> e seu respectivo conteúdo
+3. Inserir tags <h1><h2> e seu respectivo conteúdo
 4. Inserir tag <a> e seu respectivo conteúdo
 5. Criar pasta img
 6. Salvar imagem dentro da pasta
@@ -26,7 +26,7 @@ Adicionando folha de estilo
 2. Criar um arquivo dentro dessa pasta chamado style.css
 3. Importar folha de estilo no arquivo HTML
 4. Adicionar característcas básicas no *, html e body
-5. Adicionar características nas tags <a> <img> <h1> <h2> <p>
+5. Adicionar características nas tags <a> <img> <h1> <h2>
 
 /=========/ TERCEIRA PARTE /=========/
 Estilizando com classes 

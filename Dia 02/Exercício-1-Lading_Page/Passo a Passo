@@ -1,0 +1,37 @@
+Por onde começar? \ (•◡•) /
+
+Criar arquivo index.html
+
+/=========/ PRIMERA PARTE /=========/
+Estruturando a página HTML
+
+1. Inserir as tags principais de uma página HTML
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+    <meta>
+    <title>
+    <body>
+2. Inserir tag <main>
+3. Inserir tag <nav> <header> <section> <div> <footer>
+
+/=========/ SEGUNDA PARTE /=========/
+Preenchendo conteúdo da página HTML
+
+1. Preencher <nav> com imagem ou texto
+2. Preencher <header> com títulos
+3. Adicionar imagem em uma das <div>
+4. Adicionar listas em uma das <div>
+
+/=========/ TERCEIRA PARTE /=========/
+Adicionando folha de estilo e estilizando com classes 
+
+1. Criar uma pasta css
+2. Criar um arquivo dentro dessa pasta chamado style.css
+3. Importar folha de estilo no arquivo HTML
+4. Adicionar característcas básicas no *, html e body
+5. Adicionar class às tags
+6. Escrever class no arquivo css e estilizar
+7. Importar o documento no arquivo HTML
+8. Adicionar class aos elementos <a>
+
