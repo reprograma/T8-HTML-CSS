@@ -4,15 +4,15 @@ T8 | Front-end | 2019 | Semanas 2 | Fundamentos de HTML e CSS
 > Plano de aulas para a semana do dia 19/08/2019 - 23/08/2019, sobre HTML e CSS básico.
 > Este arquivo será alimentado conforme o andamento das aulas (:
 
-<img src="http://66.media.tumblr.com/17fea920ff36ef4f5b877d5216a7aad9/tumblr_mo9xje8zZ41qcbiufo1_1280.gif" height="300" width="300" align="middle">
+<img src="http://66.media.tumblr.com/17fea920ff36ef4f5b877d5216a7aad9/tumblr_mo9xje8zZ41qcbiufo1_1280.gif" height="300" width="300">
 
 ---
 ## AULA 01
 
-- [ ] Apresentação
-- [ ] Combinados
-- [ ] Preparando ambiente de desenvolvimento - Introdução a editores de texto
-- [ ] Introdução HTML e CSS
+- [ ] **Apresentação**
+- [ ] **Combinados**
+- [ ] **Preparando ambiente de desenvolvimento - Introdução a editores de texto**
+- [ ] **Introdução HTML e CSS**
     - [ ] O que é linguagem de marcação
     - [ ] HTML vs. HTML5
     - [ ] Elementos HTML: tags
@@ -29,16 +29,16 @@ T8 | Front-end | 2019 | Semanas 2 | Fundamentos de HTML e CSS
         - [ ] Margens e espaçamentos (padding)
         - [ ] Fontes e suas cores, famílias, tamanhos e ênfases
         - [ ] Cores de fundo, transparências e gradientes
-- [ ] Mãos no código
-	- [ ] Exercício 01 - Landing Page Simples
-	- [ ] Exercício 02 - Mini Currículo
+- [ ] **Mãos no código**
+	- [ ] **Exercício 01** - Landing Page Simples
+	- [ ] **Exercício 02** - Mini Currículo
 
 ---
 ## AULA 02
 
-- [ ] Revisão de conceitos aula anterior
-- [ ] Dúvidas
-- [ ] Fundamentos HTML e CSS
+- [ ] **Revisão de conceitos aula anterior**
+- [ ] **Dúvidas**
+- [ ] **Fundamentos HTML e CSS**
     - [ ] Blocos`<div>`
     - [ ] Criando links `<a>` e seus atributos `href` e `target`
     - [ ] Projetando a página - wireframe
@@ -52,15 +52,15 @@ T8 | Front-end | 2019 | Semanas 2 | Fundamentos de HTML e CSS
     - [ ] Seletores de elementos, classes e identificadores no CSS
     - [ ] Seletores por referência e pseudo seletores
     - [ ] Sobrescrita e precedência no CSS
-- [ ] Mãos no código
-	- [ ] Exercício - Landing Page 
+- [ ] **Mãos no código**
+	- [ ] **Exercício** - Landing Page 
 
 ---
 ## AULA 03
 
-- [ ] Revisão de conceitos aula anterior
-- [ ] Dúvidas
-- [ ] Fundamentos HTML e CSS
+- [ ] **Revisão de conceitos aula anterior**
+- [ ] **Dúvidas**
+- [ ] **Fundamentos HTML e CSS**
     - [ ] Usando # para criar dead links
     - [ ] Links externos e links internos
     - [ ] Formulários (form, input, placeholders, checkbox, radio buttons, buttons)    
@@ -69,31 +69,31 @@ T8 | Front-end | 2019 | Semanas 2 | Fundamentos de HTML e CSS
         - [ ] Alinhamento de elementos
         - [ ] Propriedades display (none, block, inline, inline-block e flex)
         - [ ] Position absolute e relative
-- [ ] Mãos no código
-	- [ ] Exercício - Coding Dojo: form
+- [ ] **Mãos no código**
+	- [ ] **Exercício** - Coding Dojo: form
 
 ---
 ## AULA 04
 
-- [ ] Revisão de conceitos aula anterior
-- [ ] Dúvidas
-- [ ] Fundamentos HTML e CSS
+- [ ] **Revisão de conceitos aula anterior**
+- [ ] **Dúvidas**
+- [ ] **Fundamentos HTML e CSS**
     - [ ] Tabelas (thead, tbody, td, th e tr)
     - [ ] Propriedades de estilo no CSS:
         - [ ] Propriedade border-box
         - [ ] Cores RGB, RGBA e HEX Code
         - [ ] Medidas usadas no CSS (px, %, em e rem)
-- [ ] Mãos no código
-	- [ ] Exercício - Tabela
+- [ ] **Mãos no código**
+	- [ ] **Exercício** - Tabela
 
 ---
 ## AULA 05
 
-- [ ] Revisão de conceitos aula anterior
-- [ ] Dúvidas
-- [ ] Fundamentos HTML e CSS
-- [ ] Mãos no código
-	- [ ] Exercício - Landing Page Final
+- [ ] **Revisão de conceitos aula anterior**
+- [ ] **Dúvidas**
+- [ ] **Fundamentos HTML e CSS**
+- [ ] **Mãos no código**
+	- [ ] **Exercício** - Landing Page Final
 
 ---
 
