@@ -9,26 +9,32 @@ T8 | Front-end | 2019 | Semanas 2 | Fundamentos de HTML e CSS
 ---
 ## AULA 01
 
-- [ ] **Apresentação**
-- [ ] **Combinados**
-- [ ] **Preparando ambiente de desenvolvimento - Introdução a editores de texto**
-- [ ] **Introdução HTML e CSS**
-    - [ ] O que é linguagem de marcação
-    - [ ] HTML vs. HTML5
-    - [ ] Elementos HTML: tags
-    - [ ] Comentários no HTML
-    - [ ] Adicionando links de arquivos externos  `<link>`
-    - [ ] Adicionando imagens`<img>` e seus atributos `src` e `alt`)
-    - [ ] O que é CSS? 
-    - [ ] Diferentes formas de adicionar estilo à página 
-    - [ ] Importando fontes externas (ex.: Google Fonts)
-    - [ ] Estilo padrão (default) da página
-    - [ ] Uso de classes e identificadores nas tags
-    - [ ] Propriedades de estilo no CSS:
-        - [ ] Dimensões de elementos (largura, altura)
-        - [ ] Margens e espaçamentos (padding)
-        - [ ] Fontes e suas cores, famílias, tamanhos e ênfases
-        - [ ] Cores de fundo, transparências e gradientes
+- [X] **Apresentação**
+- [X] **Combinados**
+- [X] **Preparando ambiente de desenvolvimento - Introdução a editores de texto**
+    - [X] Pastas
+    - [ ] Atalhos (identar os textos, mudar o tema, comentário, adicionar automaticamente, montar o template automaticamente)
+- [x] **Introdução HTML e CSS**
+    - [X] O que é linguagem de marcação
+    - [X] HTML vs. HTML5
+    - [X] Elementos HTML: tags
+        - [X] Blocos`<div>`
+            - [X] background-image; background-color
+    - [X] Comentários no HTML
+    - [X] Adicionando links de arquivos externos `<link>` no `<head>`do documento HTML
+    - [X] Adicionando imagens`<img>` e seus atributos `src` e `alt`)
+    - [X] O que é CSS? 
+    - [X] Diferentes formas de adicionar estilo à página
+        - [X] Tag `<style>`
+        - [X] Importar arquivo style.css através da tag `<link>` 
+    - [X] Importando fontes externas (ex.: Google Fonts)
+    - [X] Estilo padrão (default) da página
+    - [X] Uso de classes e identificadores nas tags
+    - [X] Propriedades de estilo no CSS:
+        - [X] Dimensões de elementos (largura, altura)
+        - [X] Margens e espaçamentos (margin, padding)
+        - [X] Fontes e suas cores, famílias, tamanhos e ênfases
+        - [X] Cores de fundo, transparências e gradientes
 - [ ] **Mãos no código**
 	- [ ] **Exercício 01** - Landing Page Simples
 	- [ ] **Exercício 02** - Mini Currículo
@@ -39,7 +45,6 @@ T8 | Front-end | 2019 | Semanas 2 | Fundamentos de HTML e CSS
 - [ ] **Revisão de conceitos aula anterior**
 - [ ] **Dúvidas**
 - [ ] **Fundamentos HTML e CSS**
-    - [ ] Blocos`<div>`
     - [ ] Criando links `<a>` e seus atributos `href` e `target`
     - [ ] Projetando a página - wireframe
     - [ ] Hierarquia de Títulos (`<h1>` a `<h6>`)
