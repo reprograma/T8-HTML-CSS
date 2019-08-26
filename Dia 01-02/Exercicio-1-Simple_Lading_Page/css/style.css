@@ -39,10 +39,6 @@ p {
 }
 
 /* UTILITIES */
-.u-margin-small {
-    margin: 5px;
-}
-
 .sobre-conteudo {
     width: 45%;
     display: inline-block;

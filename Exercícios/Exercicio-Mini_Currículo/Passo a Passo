@@ -12,25 +12,29 @@ Estruturando a página HTML
     <meta>
     <title>
     <body>
-2. Inserir tag <div>
+
+    Você também pode usar o atalho html:5 (:
+2. Inserir as tags <div> necessárias
 3. Inserir tags <h1><h2> e seu respectivo conteúdo
-4. Inserir tag <a> e seu respectivo conteúdo
-5. Criar pasta img
-6. Salvar imagem dentro da pasta
-7. Inserir tag <img> no HTML e seu respectivo conteúdo
+4. Criar pasta img
+5. Salvar imagens dentro da pasta
+6. Inserir tag <img> no HTML e seu respectivo conteúdo
 
 /=========/ SEGUNDA PARTE /=========/
 Adicionando folha de estilo
 
 1. Criar uma pasta css
 2. Criar um arquivo dentro dessa pasta chamado style.css
-3. Importar folha de estilo no arquivo HTML
+3. Importar folha de estilo no arquivo HTML com tag <link>
 4. Adicionar característcas básicas no *, html e body
-5. Adicionar características nas tags <a> <img> <h1> <h2>
+5. Adicionar características nas tags <img> <h1> <h2>
 
 /=========/ TERCEIRA PARTE /=========/
 Estilizando com classes 
 
-1. Adicionar class às tags <div>
-2. Escrever class no arquivo css e estilizar
-3. Adicionar class aos elementos <a>
+1. Adicionar classes às tags <div>
+2. Escrever classes no arquivo css e estilizar
+3. Adicionar classes aos elementos <img> <h1> <h2> se julgar necessário
+
+Yeeeey! 
+Bom projeto <3

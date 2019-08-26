@@ -13,7 +13,7 @@ T8 | Front-end | 2019 | Semanas 2 | Fundamentos de HTML e CSS
 - [X] **Combinados**
 - [X] **Preparando ambiente de desenvolvimento - Introdução a editores de texto**
     - [X] Pastas
-    - [ ] Atalhos (identar os textos, mudar o tema, comentário, adicionar automaticamente, montar o template automaticamente)
+    - [X] Atalhos (identar os textos, mudar o tema, comentário, adicionar automaticamente, montar o template automaticamente)
 - [x] **Introdução HTML e CSS**
     - [X] O que é linguagem de marcação
     - [X] HTML vs. HTML5
@@ -35,70 +35,61 @@ T8 | Front-end | 2019 | Semanas 2 | Fundamentos de HTML e CSS
         - [X] Margens e espaçamentos (margin, padding)
         - [X] Fontes e suas cores, famílias, tamanhos e ênfases
         - [X] Cores de fundo, transparências e gradientes
-- [ ] **Mãos no código**
-	- [ ] **Exercício 01** - Landing Page Simples
-	- [ ] **Exercício 02** - Mini Currículo
 
 ---
 ## AULA 02
 
-- [ ] **Revisão de conceitos aula anterior**
-- [ ] **Dúvidas**
-- [ ] **Fundamentos HTML e CSS**
-    - [ ] Criando links `<a>` e seus atributos `href` e `target`
-    - [ ] Projetando a página - wireframe
-    - [ ] Hierarquia de Títulos (`<h1>` a `<h6>`)
-    - [ ] Parágrafos (`<p>`)
-    - [ ] Listas ordenadas e não ordenadas (`<ul>`,`<ol>` e `<li>`)
-    - [ ] Tags semânticas (header, nav, footer, sections, video, article, entre outras)
-    - [ ] Span 
-    - [ ] Lorem ipsum (preenchendo espaços de texto)
-    - [ ] Método BEM - como nomear suas classes
-    - [ ] Seletores de elementos, classes e identificadores no CSS
-    - [ ] Seletores por referência e pseudo seletores
-    - [ ] Sobrescrita e precedência no CSS
-- [ ] **Mãos no código**
-	- [ ] **Exercício** - Landing Page 
+- [X] **Revisão de conceitos aula anterior**
+- [X] **Dúvidas**
+- [X] **Fundamentos HTML e CSS**
+    - [X] Criando links `<a>` e seus atributos `href`
+    - [X] Projetando a página - wireframe
+    - [X] Hierarquia de Títulos (`<h1>` a `<h6>`)
+    - [X] Parágrafos (`<p>`)
+    - [X] Lorem ipsum (preenchendo espaços de texto)
+    - [X] Método BEM - como nomear suas classes
+    - [X] Seletores de elementos, classes e identificadores no CSS
+    - [X] Seletores por referência e pseudo seletores
+    - [X] Sobrescrita e precedência no CSS
 
 ---
 ## AULA 03
 
-- [ ] **Revisão de conceitos aula anterior**
-- [ ] **Dúvidas**
-- [ ] **Fundamentos HTML e CSS**
-    - [ ] Usando # para criar dead links
-    - [ ] Links externos e links internos
-    - [ ] Formulários (form, input, placeholders, checkbox, radio buttons, buttons)    
-    - [ ] Propriedades de CSS
-        - [ ] Bordas e sombras
-        - [ ] Alinhamento de elementos
-        - [ ] Propriedades display (none, block, inline, inline-block e flex)
-        - [ ] Position absolute e relative
-- [ ] **Mãos no código**
-	- [ ] **Exercício** - Coding Dojo: form
+- [X] **Revisão de conceitos aula anterior**
+- [X] **Dúvidas**
+- [X] **Fundamentos HTML e CSS**
+    - [X] Usando # para criar dead links
+    - [X] Links externos e links internos
+    - [X] Formulários (form, input, placeholders, checkbox, radio buttons, buttons)   
+        - [X] Tags semânticas (header, nav, footer, sections, entre outras)
+    - [X] Span  
+    - [X] Propriedades de CSS
+        - [X] Bordas
+        - [X] Alinhamento de elementos
+        - [X] Propriedades display (none, inline, inline-block e flex)
+- [X] **Mãos no código**
+	- [X] **Exercício** - Form
 
 ---
 ## AULA 04
 
-- [ ] **Revisão de conceitos aula anterior**
-- [ ] **Dúvidas**
-- [ ] **Fundamentos HTML e CSS**
-    - [ ] Tabelas (thead, tbody, td, th e tr)
-    - [ ] Propriedades de estilo no CSS:
-        - [ ] Propriedade border-box
-        - [ ] Cores RGB, RGBA e HEX Code
-        - [ ] Medidas usadas no CSS (px, %, em e rem)
-- [ ] **Mãos no código**
-	- [ ] **Exercício** - Tabela
+- [X] **Revisão de conceitos aula anterior**
+- [X] **Dúvidas**
+- [X] **Fundamentos HTML e CSS**
+    - [X] Listas ordenadas e não ordenadas (`<ul>`,`<ol>` e `<li>`)
+    - [X] Propriedades de estilo no CSS:
+        - [X] Propriedade border-box
+        - [X] Cores RGB, RGBA e HEX Code
+        - [X] Medidas usadas no CSS (px, %)
 
 ---
 ## AULA 05
 
-- [ ] **Revisão de conceitos aula anterior**
-- [ ] **Dúvidas**
-- [ ] **Fundamentos HTML e CSS**
-- [ ] **Mãos no código**
-	- [ ] **Exercício** - Landing Page Final
+- [X] **Revisão de conceitos aula anterior**
+- [X] **Dúvidas**
+- [X] **Fundamentos HTML e CSS**
+- [X] **Mãos no código**
+	- [X] **Exercício** - Landing Page Final
 
 ---
 
